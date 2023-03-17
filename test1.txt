@@ -1,10 +1,1 @@
- Volume in drive D has no label.
- Volume Serial Number is 74E4-A167
-
- Directory of D:\My Project
-
-17-Mar-23  12:34 PM    <DIR>          .
-17-Mar-23  12:34 PM    <DIR>          ..
-17-Mar-23  12:34 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  151,099,232,256 bytes free
+ change 1
